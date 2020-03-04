@@ -22,6 +22,7 @@ from aos_vis_client import VISClient, VISDataSubscription, VISDataAccessor
 
 logger = logging.getLogger(__name__)
 
+# Adding a comment for re-deploying
 
 VIS_URL = "wss://wwwivi:8088/"
 
